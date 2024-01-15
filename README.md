@@ -1,2 +1,2 @@
-# Assignemnt1
+# Assignment1
 Coding of HTML Project
