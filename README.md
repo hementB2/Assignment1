@@ -27,3 +27,8 @@ Coding of HTML Project
 6. Rearranged CSS to match HTML structure.
 7. Added alt attributes to images.
 
+Image for the Website-
+
+
+
+
