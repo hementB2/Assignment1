@@ -29,6 +29,10 @@ Coding of HTML Project
 
 Image for the Website-
 
+![Alt text](image.png)
+
+
+Made by Hement Mishra
 
 
 
